@@ -1,0 +1,14 @@
+# Brain Tumor MRI Classification - requirements
+# Recommended: Python 3.10 - 3.12
+tensorflow>=2.13
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+pillow
+h5py
+streamlit>=1.30
+jupyter
+ipykernel
